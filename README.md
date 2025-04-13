@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Nick!</h1>
+<h3 align="center">2000 Cr. Mindset | Web Scraper | Future AI & Quantum Engineer</h3>
 
-<!--
-**nick28python/nick28python** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- Aspiring multi-domain tech innovator
+- Currently mastering **Web Scraping** using Python + Selenium
+- On a mission to build billion-dollar skills and products  
+- Passionate about: **AI/ML**, **Electronics**, **Ocean Exploration**, **Quantum Computing**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Currently Learning
+- Python for automation & data scraping
+- Selenium for browser control
+- Git & GitHub (still exploring!)
+
+---
+
+### ⚒️ Tech Stack
+- **Languages:** Python
+- **Tools:** Selenium, BeautifulSoup, Git, VS Code
+- **Learning:** Pandas, Regex, APIs
+
+---
+
+### 📈 My Goals
+- Build impactful automation tools
+- Launch real-world scraping-based services
+- Learn AI + hardware + deep tech
+- Hit `₹2000 Cr.` net worth in 2 years (not kidding)
+
+---
+
+### 📌 Featured Projects
+[Search Bar Automation](https://github.com/nick28python/search_bar_automation)  
+[Amazon Book Scraper](https://github.com/nick28python/amazon_book_scraper
+
+---
+
+### 📫 Contact Me
+You’ll find me where there’s code, caffeine, and crazy ideas.  
+DM me on GitHub or drop a comment in any repo!
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nick28python&show_icons=true&theme=radical" />
+</div>
