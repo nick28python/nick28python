@@ -35,7 +35,7 @@
 
 ### 📌 Featured Projects
 [Search Bar Automation](https://github.com/nick28python/search_bar_automation)  
-[Amazon Book Scraper](https://github.com/nick28python/amazon_book_scraper
+[Amazon Book Scraper](https://github.com/nick28python/amazon_book_scraper)
 
 ---
 
