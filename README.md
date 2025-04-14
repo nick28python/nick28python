@@ -48,7 +48,7 @@
 ### 📫 Contact Me
 You’ll find me where there’s code, caffeine, and crazy ideas.  
 DM me on GitHub or drop a comment in any repo!
-- [Email](nick28python@gmail.com)
+- [Email](anshulgedekar27@gmail.com
 ---
 
 <div align="center">
