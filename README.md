@@ -40,6 +40,8 @@
 
 [Login Automation](https://github.com/nick28python/Login-Automation)
 
+[Google Search Results Extractor](https://github.com/nick28python/google_search_scraper.py)
+
 
 ---
 
