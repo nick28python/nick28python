@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Nick!</h1>
 <h3 align="center">2000 Cr. Mindset | Web Scraper | Future AI & Quantum Engineer</h3>
-
+<h3 align="center">“No face, just results. Let the code speak.”</h3>
 ---
 
 ### 🚀 About Me
